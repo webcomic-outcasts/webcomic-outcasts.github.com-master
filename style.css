@@ -1,0 +1,310 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+body {
+  background-color: white;
+  margin: 0;
+}
+
+img {
+  height: 100px;
+  border: none;
+}
+
+#header {
+  background: url("cover.png") #FBC415;
+  
+  background-repeat: no-repeat;
+ 
+  background-position: center;
+  text-align: center;
+  padding-top: 200px;
+  padding-bottom: 15px;
+    width: 700px;
+    align-content: center;
+    display: block;
+    text-align-last: center;
+}
+
+#thing ul li {
+  margin-top: 8;
+  display: inline;
+  margin-left: 5px;
+  margin-right: 5px;
+  color: white;
+  text-align: center;
+}
+
+#header img {
+  border-radius: 50px;
+}
+
+#header a {
+  text-decoration: none;
+  border-bottom: 1px solid white;
+}
+
+#header ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+#thing {
+  text-align: center;
+}
+
+#body{
+  text-align: center;
+  margin-top: 20px;
+  
+}
+
+#body a {
+  text-decoration: none;
+  border: 1px solid black;
+  padding: 5px;
+  border-radius: 10px;
+  color: black;
+}
+
+#body a:hover {
+  background-color: #999;
+  color: white;
+}
+
+#back-to-top {
+  position: fixed;
+  bottom: 5px;
+  right: 5px;
+  background-color: #888;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+
+
+
+
+
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+body {
+  background-color: white;
+  margin: 0;
+}
+
+img {
+  height: 100px;
+  border: none;
+}
+
+#header {
+  background: url("cover.png") #FBC415;
+  background-size: contain;
+  background-repeat: no-repeat;
+
+  background-position: center;
+  text-align: center;
+  padding-top: 200px;
+  padding-bottom: 15px;
+}
+
+#thing ul li {
+  margin-top: 8;
+  display: inline;
+  margin-left: 5px;
+  margin-right: 5px;
+  color: white;
+  text-align: center;
+}
+
+#header img {
+  border-radius: 50px;
+}
+
+#header a {
+  text-decoration: none;
+  border-bottom: 1px solid white;
+}
+
+#header ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+#thing {
+  text-align: center;
+}
+
+#body{
+  text-align: center;
+  margin-top: 20px;
+  
+}
+
+#body a {
+  text-decoration: none;
+  border: 1px solid black;
+  padding: 5px;
+  border-radius: 10px;
+  color: black;
+}
+
+#body a:hover {
+  background-color: #999;
+  color: white;
+}
+
+#back-to-top {
+  position: fixed;
+  bottom: 5px;
+  right: 5px;
+  background-color: #888;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+#contact {
+  text-decoration: underline;
+}
+
+#notes {
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+
+
+
+
+
+
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+#Patricia h2 {
+  margin-top: 10px; 
+  margin-left: 150px;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+body {
+  background-color: white;
+  margin: 0;
+}
+
+img {
+  height: 100px;
+  border: none;
+}
+
+#header {
+  background: url("cover.png") #FBC415;
+  background-size: contain;
+  background-repeat: no-repeat;
+
+  background-position: center;
+  text-align: center;
+  padding-top: 200px;
+  padding-bottom: 15px;
+}
+
+#thing ul li {
+  margin-top: 8;
+  display: inline;
+  margin-left: 5px;
+  margin-right: 5px;
+  color: white;
+  text-align: center;
+}
+
+#header img {
+  border-radius: 50px;
+}
+
+#header a {
+  text-decoration: none;
+  border-bottom: 1px solid white;
+}
+
+#header ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+#thing {
+  text-align: center;
+}
+
+#body{
+  text-align: center;
+  margin-top: 20px;
+
+}
+
+#body a {
+  text-decoration: none;
+  border: 1px solid black;
+  padding: 5px;
+  border-radius: 10px;
+  color: black;
+}
+
+#body a:hover {
+  background-color: #999;
+  color: white;
+}
+
+#back-to-top {
+  position: fixed;
+  bottom: 5px;
+  right: 5px;
+  background-color: #888;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+#body-1 {
+  text-decoration: underline;
+  text-align: center;
+}
+
+#page a {
+    text-decoration: none;
+    border: none;
+    padding: none;
+    border-radius: none;
+    color: white;
+}
+
+#page1 img {
+  height: 100px;
+  border: none;
+    
+}
+
+#page1-toc {
+    display: block;
+    position: fixed;
+    border: 1px solid black;
+    margin-left: 10px;
+    padding: 10px;
+    
+}
+
+
+
+

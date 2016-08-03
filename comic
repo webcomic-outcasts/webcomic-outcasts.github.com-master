@@ -1,0 +1,48 @@
+<!DOCTYPE>
+<html>
+  <head>
+    <title>Outcasts</title>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  
+  <body id="top" style="text-align: center;">
+      <div style="text-align: center;">
+    <div id="home" style="text-align: center;">
+    <div id="header" style="text-align: center; margin: auto;">
+    
+    <div id="thing">
+      
+    </div>
+      
+    </div>
+    
+    <div id="body">
+      
+      <a href="comic.html" id="home">Comic</a>
+      <a href="about.html">About</a>
+      <a href="archive.html">Archive</a>
+      
+      <h2 style="text-decoration: underline;">New Comic Page</h2>
+      <p>All rights reserved</p>
+    </div>
+        
+        <div id="page1">    
+        <h3 style="margin-top: 50px; text-decoration: underline;">Page 1: Lucas Mildew Evergreen</h3>
+      <a href="1sketch.png"><img src="Page1.png" style="height: 100%; margin-bottom: 100px; text-align: center;"></a>
+      <h3>Cover (Needs to be updated)</h3>
+      <img src="cover.png" style="height: 100%; margin-bottom: 20px;">
+    </div>
+   
+        
+        
+    <a href="#page1" id="page1-toc">Page 1</a>
+    <a href="#top" id="back-to-top">Back to Top ^</a>
+    </div>
+      
+      <div id="page1-toc">
+            <h4></h4>
+        </div>
+      </div>
+      
+  </body>
+</html>
